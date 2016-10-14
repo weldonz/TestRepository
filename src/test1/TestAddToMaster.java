@@ -13,4 +13,5 @@ public class TestAddToMaster {
 	
 	//尝试提交修改
 	
+	//master上修改模拟冲突
 }
